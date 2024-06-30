@@ -135,12 +135,8 @@ p {
 }
 
 .item-hero {
-    /* display: flex;
-    align-items: center;
-    overflow: hidden; */
     height: 350px;
     width: 260px;
-    /* width: 1200px; */
     color: #999;
     padding-top: 15px;
     background-color: #fff;
@@ -264,8 +260,6 @@ p {
 .hero-img {
     flex: 1;
     height: 360px;
-    /* height: 100%;
-    max-width: 50%; */
     width: 938px;
     background-size: cover;
     display: flex;
@@ -449,6 +443,3 @@ pre {
     margin-right: 10px;
     border-style: none;
 }
-
-
-
